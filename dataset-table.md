@@ -1,7 +1,7 @@
 
 | Dataset | Description | Reference |
 | --- | --- | --- |
-| IntAct | Curated molecular-interaction repository (proteins, small molecules, nucleic acids); member of the IMEx consortium| [EMBL-EBI](EMBL-EBI)|
+| IntAct | Curated molecular-interaction repository (proteins, small molecules, nucleic acids); member of the IMEx consortium| [EMBL-EBI]((https://www.google.com))|
 | BioGRID |	Experimentally validated protein-protein and genetic interactions across many species|	[thebiogrid.org](thebiogrid.org)|
 | STRING |	Integrates predicted & known physical/functional protein associations | [string-db.org](string-db.org)|
 |MINT|	Experiment-confirmed protein-protein interactions with rich methodology annotation|	[mint.bio.uniroma2.it](mint.bio.uniroma2.it)|
